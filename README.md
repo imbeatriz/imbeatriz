@@ -1,4 +1,4 @@
-# 👋 Hello
+# 👋 Hello  
 
 🎓 I am a PhD student at the [Neuroimaging & Therapeutic Ultrasound Laboratory (NTUS-Lab)](https://ntus-lab.org/) of [HM CINAC](https://www.hmhospitales.com/hm-cinac/en/) and the [Universitat Politècnica de València (UPV)](https://www.upv.es/). My research focuses on the application of physics and computational modeling to medicine, with the aim of developing more precise and effective therapeutic approaches and advancing personalized treatment planning.
 
