@@ -56,4 +56,3 @@
 ## 📫 Contact
 
 - E-mail: beatrizornelas@tecnico.ulisboa.pt
-- Linkedin: https://www.linkedin.com/in/beatriz-ornelas11/ 
