@@ -53,3 +53,8 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white)
 
+## 📫 Contact
+
+- E-mail: beatrizornelas@tecnico.ulisboa.pt
+- Linkedin: https://www.linkedin.com/in/beatriz-ornelas11/ 
+
